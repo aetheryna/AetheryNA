@@ -1,4 +1,4 @@
-OwO
+Helluu! Welcome to my profile owo. I :heart: coding!
 
 <!--
 **AetheryNA/AetheryNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
