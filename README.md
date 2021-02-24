@@ -1,4 +1,4 @@
-https://cdn65.picsart.com/191959525002202.gif?to=min&r=640
+![](191959525002202.gif)
 
 Hi there owo Welcome to my github! 
 
