@@ -1,4 +1,6 @@
-Helluu! Welcome to my profile owo. I :heart: coding!
+https://cdn65.picsart.com/191959525002202.gif?to=min&r=640
+
+Hi there owo Welcome to my github! 
 
 <!--
 **AetheryNA/AetheryNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
