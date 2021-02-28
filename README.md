@@ -1,6 +1,6 @@
 ![](191959525002202.gif)
 
-Hi there owo Welcome to my github! 
+Hi there :wave:. Welcome to my github! :computer:
 
 <!--
 **AetheryNA/AetheryNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
