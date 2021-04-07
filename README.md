@@ -1,4 +1,4 @@
-![](191959525002202.gif)
+![](ahri.gif)
 
 Hi there :wave:. Welcome to my github! :computer:
 
