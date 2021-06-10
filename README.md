@@ -1,4 +1,4 @@
-![](ahri.gif)
+![](eula.gif)
 
 Hi there :wave:. Welcome to my github! :computer:
 
