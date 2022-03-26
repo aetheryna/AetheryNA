@@ -26,6 +26,7 @@
 <br />
 <br />
 <img src="./icons/typescript.svg" width="35px" />&nbsp;
+<img src="./icons/javascript.svg" width="35px" />&nbsp;
 <img src="./icons/python.svg" width="35px" />&nbsp;
 <img src="./icons/php.svg" width="35px" />&nbsp;
 <img src="./icons/ruby.svg" width="35px" />&nbsp;
