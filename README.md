@@ -35,6 +35,7 @@
 <img src="./icons/nodejs.svg" width="35px" />&nbsp;
 <img src="./icons/react.svg" width="35px" />&nbsp;
 <img src="./icons/nextjs.svg" width="35px" />&nbsp;
+<img src="./icons/nestjs.svg" width="35px" />&nbsp;
 <img src="./icons/redux.svg" width="35px" />&nbsp;
 <img src="./icons/sass.svg" width="35px" />&nbsp;
 <img src="./icons/tailwind.svg" width="35px" />&nbsp;
