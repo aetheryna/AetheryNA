@@ -44,6 +44,7 @@
 <img src="./icons/firebase.svg" width="35px" />&nbsp;
 <img src="./icons/prisma.svg" width="35px" />&nbsp;
 <img src="./icons/jest.svg" width="50px" />&nbsp;
+<img src="./icons/cypress.svg" width="35px" />&nbsp;
 <img src="./icons/strapi.svg" width="35px" />&nbsp;
 <img src="./icons/wordpress.svg" width="35px" />&nbsp;
 <img src="./icons/git.svg" width="35px" />&nbsp;
