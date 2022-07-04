@@ -2,7 +2,7 @@
 
 <br />
 
-<div align="center"><img src="https://c.tenor.com/pKlYOKd-RQwAAAAd/keqing.gif" align="center" width="250px" /></div>
+<div align="center"><img src="https://c.tenor.com/-oLI6ZeCrkgAAAAd/eula-genshin-impact.gif" align="center" width="250px" /></div>
 
 <br />
 <br />
@@ -86,7 +86,7 @@ serious and I enjoy being around individuals who can teach me to be better as an
 <h1>Contact me! :iphone:</h1>
 <p> Checkout my website: https://portfolio-aetheryna.vercel.app/. Everything you need to know about my past experiences and projects, you can check it out if your interested! </p>
 <br />
-<div align="center"><img src="https://static.wikia.nocookie.net/43c58046-2fe2-4b8c-b4c5-db2fb1f914d8" /></div>
+<div align="center"><img src="https://c.tenor.com/pKlYOKd-RQwAAAAd/keqing.gif" align="center" width="250px" /></div>
 
 <!--
 **AetheryNA/AetheryNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
