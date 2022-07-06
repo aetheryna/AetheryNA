@@ -85,8 +85,6 @@ serious and I enjoy being around individuals who can teach me to be better as an
 <br />
 <h1>Contact me! :iphone:</h1>
 <p> Checkout my website: https://portfolio-aetheryna.vercel.app/. Everything you need to know about my past experiences and projects, you can check it out if your interested! </p>
-<br />
-<div align="center"><img src="https://c.tenor.com/pKlYOKd-RQwAAAAd/keqing.gif" align="center" width="250px" /></div>
 
 <!--
 **AetheryNA/AetheryNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
