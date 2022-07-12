@@ -2,7 +2,7 @@
 
 <br />
 
-<div align="center"><img src="https://c.tenor.com/-oLI6ZeCrkgAAAAd/eula-genshin-impact.gif" align="center" width="200px" height="450px" /></div>
+<div align="center"><img src="https://c.tenor.com/-oLI6ZeCrkgAAAAd/eula-genshin-impact.gif" align="center" height="450px" /></div>
 
 <br />
 <br />
